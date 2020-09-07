@@ -1,6 +1,6 @@
 ## Aplicaciones de comandos
 
-Ejerccio del curso
+Ejercicio del curso
 
 ```
 npm install
